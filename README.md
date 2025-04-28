@@ -51,12 +51,15 @@ XXX:\AI_ULTRASOUND_DATASET
 │   ├───record01
 │   │   ├───UltrasoundImages
 │   │   └───Labels
+│   │   └───tracking.csv
 │   ├───record02
 │   │   ├───UltrasoundImages
 │   │   └───Labels
+│   │   └───tracking.csv
 │   ├───record03
 │   │   ├───UltrasoundImages
 │   │   └───Labels
+│   │   └───tracking.csv
 │   ⋮
 │   ⋮
 ├───cadaver02_F231218
