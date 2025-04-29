@@ -50,15 +50,21 @@ XXX:\AI_ULTRASOUND_DATASET
 ├───cadaver01_F231091
 │   ├───record01
 │   │   ├───UltrasoundImages
-│   │   └───Labels
+│   │   │   └───timestamp.png
+│   │   ├───Labels
+│   │   │   └───timestamp_label.png
 │   │   └───tracking.csv
 │   ├───record02
 │   │   ├───UltrasoundImages
-│   │   └───Labels
+│   │   │   └───timestamp.png
+│   │   ├───Labels
+│   │   │   └───timestamp_label.png
 │   │   └───tracking.csv
 │   ├───record03
 │   │   ├───UltrasoundImages
-│   │   └───Labels
+│   │   │   └───timestamp.png
+│   │   ├───Labels
+│   │   │   └───timestamp_label.png
 │   │   └───tracking.csv
 │   ⋮
 │   ⋮
