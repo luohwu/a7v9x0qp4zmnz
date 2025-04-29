@@ -1,9 +1,7 @@
-# UltraBones100k
-
-Welcome to the **UltraBones100k Repository**!
+# Preview for reviewers
 
 This repository contains:
-1. **Dataset Access**: Instructions for downloading the UltraBones100k dataset.
+1. **Dataset Access**: Instructions for downloading the dataset.
 2. **Bone Segmentation in Ultrasound Images**: Code and pretrained models for accurate bone segmentation in ultrasound imaging.
 3. **CT-US Alignment Optimization**: Code for optimizing the alignment between CT and ultrasound images.
 
